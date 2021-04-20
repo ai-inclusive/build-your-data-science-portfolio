@@ -5,8 +5,8 @@
 
 Join us on MAY 1st at 11am PT live on our [YouTube channel](https://www.youtube.com/channel/UCrbtq679Z-eOcAb-CTsggjA)!!!⠀⏰
 
-➡️ [Youtube Link](https://www.youtube.com/watch?v=Kkco06E_ZOY)  
-➡️ [Meetup Link](https://bit.ly/evento1303-meetup) 
+➡️ [Youtube Link](https://www.youtube.com/watch?v=-NMliYUeC9s)  
+➡️ [Meetup Link](https://www.meetup.com/pt-BR/ai-inclusive-global/events/drafts/) 
 
 🔴 Subscribe to our channel for more updates.
 
