@@ -43,7 +43,7 @@ Link Dataset:
 - Where to develop your project
 - Explore the Dataset
 - README tips
-- Share your projects on the social media (LinkedIn, Medium, Dev.to…)
+- Share your projects the social media (LinkedIn, Medium, Dev.to…)
  
 
 
