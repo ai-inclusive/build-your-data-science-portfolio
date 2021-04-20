@@ -11,7 +11,7 @@ Join us on MAY 1st at 11am PT live on our [YouTube channel](https://www.youtube.
 🔴 Subscribe to our channel for more updates.
 
 
-#### Event Hosts
+#### 👩‍💻 Event Hosts
 
 ➡ &nbsp;Saishruthi Swaminathan - https://www.linkedin.com/in/saishruthi-swaminathan  
 ➡ &nbsp;Gabriela de Queiroz - https://www.linkedin.com/in/gabrieladequeiroz/
