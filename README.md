@@ -10,6 +10,12 @@ Join us on MAY 1st at 11:00am PT live on our [YouTube channel](https://www.youtu
 
 🔴 Subscribe to our channel for more updates.
 
+
+#### Event Hosts
+
+➡ &nbsp;Saishruthi Swaminathan - https://www.linkedin.com/in/saishruthi-swaminathan  
+➡ &nbsp;Gabriela de Queiroz - https://www.linkedin.com/in/gabrieladequeiroz/
+
 <!--
 Já pensou em criar um portfólio dos seus projetos de Data Science?  
 Você já conhece o GitHub? Vamos te ajudar na sua jornada!  
@@ -40,11 +46,6 @@ Link Dataset:
 - Share your projects on the social media (LinkedIn, Medium, Dev.to…)
  
 
-
-#### Event Hosts
-
-➡ &nbsp;Saishruthi Swaminathan - https://www.linkedin.com/in/saishruthi-swaminathan  
-➡ &nbsp;Gabriela de Queiroz - https://www.linkedin.com/in/gabrieladequeiroz/
 
 
 
