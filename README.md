@@ -43,7 +43,7 @@ Link Dataset:
 
 #### Event Hosts
 
-➡ &nbsp;Saishruthi Swaminathan - https://www.linkedin.com/in/saishruthi-swaminathan
+➡ &nbsp;Saishruthi Swaminathan - https://www.linkedin.com/in/saishruthi-swaminathan  
 ➡ &nbsp;Gabriela de Queiroz - https://www.linkedin.com/in/gabrieladequeiroz/
 
 
