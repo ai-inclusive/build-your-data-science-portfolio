@@ -3,7 +3,7 @@
 ![Octocat](https://user-images.githubusercontent.com/65978629/115317246-6db60380-a151-11eb-9fb2-967df383dc6e.png)
 
 
-Join us on MAY 1st at 11:00am PT live on our [YouTube channel](https://www.youtube.com/channel/UCrbtq679Z-eOcAb-CTsggjA)!!!⠀⏰
+Join us on MAY 1st at 11am PT live on our [YouTube channel](https://www.youtube.com/channel/UCrbtq679Z-eOcAb-CTsggjA)!!!⠀⏰
 
 ➡️ [Youtube Link](https://www.youtube.com/watch?v=Kkco06E_ZOY)  
 ➡️ [Meetup Link](https://bit.ly/evento1303-meetup) 
