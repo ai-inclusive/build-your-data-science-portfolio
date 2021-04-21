@@ -13,26 +13,11 @@ Join us on MAY 1st at 11am PT live on our [YouTube channel](https://www.youtube.
 
 #### 👩‍💻 Event Hosts
 
+➡ &nbsp;Gabriela de Queiroz - https://www.linkedin.com/in/gabrieladequeiroz/  
 ➡ &nbsp;Saishruthi Swaminathan - https://www.linkedin.com/in/saishruthi-swaminathan  
-➡ &nbsp;Gabriela de Queiroz - https://www.linkedin.com/in/gabrieladequeiroz/
 
-<!--
-Já pensou em criar um portfólio dos seus projetos de Data Science?  
-Você já conhece o GitHub? Vamos te ajudar na sua jornada!  
 
-Nesse evento vamos te ensinar a expor seus projetos de Data Science no GitHub e te dar dicas para divulgar seus projetos nas redes sociais.
-
-Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https://www.dataquest.io/path/data-analyst/).
-
-Já pensou em criar um portfólio dos seus projetos de Data Science?  
-Você já conhece o GitHub? Vamos te ajudar na sua jornada!  
-
-Nesse evento vamos te ensinar a expor seus projetos de Data Science no GitHub e te dar dicas para divulgar seus projetos nas redes sociais.
-
-Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https://www.dataquest.io/path/data-analyst/).
-
-Link Dataset:
--->
+Saishruthi Swaminathan is a technical lead and data scientist in the IBM CODAIT team whose main focus is to democratize data and AI through open source technologies. She has a Masters in Electrical Engineering specializing in Data Science and a Bachelor degree in Electronics and Instrumentation. Her passion is to dive deep into the ocean of data, extract insights, and use AI for social good. Previously, she was working as a Software Developer. On a mission to spread the knowledge and experience, she acquired in her learning process. She also leads the education for rural children initiative and organizing meetups focussing on women empowerment.
 
 
 
