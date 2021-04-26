@@ -1,4 +1,4 @@
-# Using GitHub to build your Data Science portfolio
+# Building your Data Science portfolio using GitHub
 
 ![Octocat](https://user-images.githubusercontent.com/65978629/115317246-6db60380-a151-11eb-9fb2-967df383dc6e.png)
 
